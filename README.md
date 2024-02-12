@@ -4,4 +4,4 @@
 ### git push
 ### git pull
 ### git merge
-### clone
+### git clone
