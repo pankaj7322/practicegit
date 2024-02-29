@@ -5,3 +5,4 @@
 ### git pull
 ### git merge
 ### git clone
+### git pull origin main --allow-unrelated-histories
