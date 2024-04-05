@@ -6,3 +6,6 @@
 ### git merge
 ### git clone
 ### git pull origin main --allow-unrelated-histories
+### git remote -v ( to list all repository )
+### git remote rename <old_name> <new_name>
+### git remote remove <name>
