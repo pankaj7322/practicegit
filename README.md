@@ -11,7 +11,5 @@
 ### git remote remove <name>
 ### git rm -r [file-name.txt] remove file and folder
 #
-
-
 #
-
+#
